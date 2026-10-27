@@ -1,0 +1,9 @@
+Command:
+curl https://api.github.com/repos/nick-8149/mcino-Introduction-to-Git-and-GitHub
+
+Terminal output confirmation:
+"full_name": "nick-8149/mcino-Introduction-to-Git-and-GitHub"
+"fork": true
+"parent": {
+  "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+}
